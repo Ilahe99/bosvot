@@ -1,1 +1,1 @@
-worker: python chatbot.py
+web: python3 start: chatbot.py
